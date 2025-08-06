@@ -1,1 +1,7 @@
 .env
+.pdf
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+.tex
+.csv
