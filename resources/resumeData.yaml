@@ -1,0 +1,59 @@
+name: Tristan Norbury
+location: Sydney, Australia
+phone: "+61477494866"
+email: tristannorbury123@gmail.com
+linkedin: linkedin.com/in/tristan-norbury
+
+experience:
+  - title: Software Developer Intern
+    company: Bold Global
+    location: Macquarie Park, NSW
+    duration: Jul 2024 – Nov 2024
+    responsibilities:
+      - Redesigned and developed dynamic user interface components for a digital platform, enhancing interactivity and increasing user engagement across mobile and desktop environments.
+      - Integrated RESTful APIs and connected the Wix CMS to deliver real-time content updates, optimizing system performance and supporting scalable, end-to-end feature rollouts.
+      - Built and embedded an interactive Mapbox experience into the site using custom iframes and frontend logic, empowering users with location-based services; implemented lazy loading and SEO enhancements that improved load times by 10%.
+
+  - title: Lead Developer / Co-Founder
+    company: Catchy
+    location: Sydney, Australia
+    duration: Jun 2023 – Feb 2025
+    website: catchysavings.com
+    responsibilities:
+      - Built a scalable product scraping system using Python, Selenium, and BeautifulSoup, extracting over 1 million product entries monthly from 100+ e-commerce platforms and storing data across SQL/NoSQL databases.
+      - Developed custom algorithms to improve product matching accuracy by 80%, ensuring better search experiences for customers; handled 10,000+ daily requests with Flask and session-managed backend architecture.
+      - Implemented asynchronous requests, multithreading, and fault tolerance for fast and reliable data pipelines, all deployed through Docker containers with integrated CI/CD pipelines.
+
+  - title: iOS Developer
+    project: Macdonald Valley iOS App
+    location: Central Coast, Australia
+    duration: Mar 2024 – Feb 2025
+    link: https://apps.apple.com/au/app/macdonaldvalley/id6478435407
+    responsibilities:
+      - Designed and built a native iOS emergency response app that aggregates weather, traffic, and river data, supporting local communities during flood events with real-time updates and alerts.
+      - Leveraged AWS Lambda to create scheduled serverless functions, processing and storing time-sensitive data in Supabase SQL, reducing redundant API calls and optimizing cost.
+      - Containerized backend services using Docker, streamlining deployment workflows and enhancing system reliability; the app received official endorsement from the Macdonald Valley Association and surpassed 3,000 downloads.
+
+  - title: Bartender \& Barista (Part Time)
+    company: The Pickled Wombat
+    location: Sydney
+    duration: May 2022 – Present
+
+education:
+  - university: Macquarie University
+    location: North Ryde, NSW
+    degree: Bachelor of Information Technology
+    major: Business Technology
+    duration: 2022 - Jul 2025
+
+certificates:
+  - Azure AI Fundamentals (AI900) – Microsoft
+  - Java \& Python Basics – HackerRank
+  - C++ Programming Concepts – The Great Courses
+
+skills:
+  languages: ["JavaScript", "Python", "Swift", "SQL", "Kotlin (familiar)"]
+  frameworks: ["Node.js", "Express.js", "React", "Flask", "SwiftUI", "Flutter"]
+  mobile_development: ["iOS (Swift)", "Android (Kotlin - exposure)"]
+  tools: ["Docker", "Git", "Supabase", "Selenium", "Bamboo (CI/CD)", "AWS (Lambda, S3)"]
+  architecture: ["RESTful APIs", "Microservices", "MVP/MVVM Patterns", "Dependency Injection"]
